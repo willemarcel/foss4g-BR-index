@@ -13,3 +13,4 @@
 * [George Silva](https://github.com/george-silva)
 * [Luís Andrade](https://github.com/lcoandrade)
 * [Luiz Motta](https://github.com/lmotta)
+* [Narcélio de Sá](https://github.com/narceliodesa)
